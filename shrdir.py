@@ -1,5 +1,5 @@
 import os
-# wdfwejhgfhgfh
+
 module_name = raw_input("Enter the module name:")
 os.makedirs(module_name+'/root')
 folder_list = ['asset','app','bin','changelog','config','db','docs','log','lib','public','samples','test','tmp']
